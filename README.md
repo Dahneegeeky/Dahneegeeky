@@ -13,7 +13,7 @@ With hands-on experience in network configurations, SIEM tools, vulnerability as
 ## Core Skills 🌟 
 Cybersecurity: Web application VAPT, Network and System VAPT, metasploitable2 exploitation, Advanced system exploitation, IT Networking, Reconnaaissance, Firewalls, Error handling and Reporting
 
-Tools: OWASP ZAP, KALI LINUX tools, SPLUNK, BURPSUITE, HASH CALC, WIRESHARK, NMAP, GITHUB.
+Tools: OWASP ZAP, OpenVAS, NESSUS, KALI LINUX tools, SPLUNK, BURPSUITE, HASH CALC, WIRESHARK, NMAP, GITHUB.
 
 Programming Languages: HTML5, CSS3, JavaScript, Python.
 

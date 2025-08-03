@@ -7,7 +7,7 @@
 ## 💫 About Me:
 🚀 A passionate Penetration tester and a network security Engineer
 
-With hands-on experience in network configurations, SIEM tools, vulnerability assessment, and penetration testing VAPT. I specialize in identifying and mitigating security threats, and I'm driven to deliver robust security solutions that protect digital assets.
+With hands-on experience in network configurations, SIEM tools, vulnerability assessment and penetration testing (VAPT) on either networked systems or web applications. I specialize in identifying and mitigating security threats, and I'm driven to deliver robust security solutions that protect digital assets.
 
 
 ## Core Skills 🌟 

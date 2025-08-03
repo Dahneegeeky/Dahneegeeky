@@ -34,6 +34,8 @@ Endpoint Security, Cisco
 
 Certified Cybersecurity Fundamentals, CISCO
 
+B.Tech Computer Engineering, Federal University Oye-Ekiti.
+
 
 ## 📫 Let's Connect!
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or if you'd like to collaborate on exciting projects. I'm always open to new opportunities and eager to contribute to innovative projects.

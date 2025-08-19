@@ -5,9 +5,9 @@
 [linkedin](linkedin.com/in/aladtun)         [gmail](dahneegeek@gmail.com) 
 
 ## 💫 About Me:
-🚀 A passionate Penetration tester and a network security Engineer
+🚀 A passionate Cybersecurity Analyst, API security practitioner,Penetration tester and a network security Engineer
 
-With hands-on experience in network configurations, SIEM tools, vulnerability assessment and penetration testing (VAPT) on either networked systems or web applications. I specialize in identifying and mitigating security threats, and I'm driven to deliver robust security solutions that protect digital assets.
+With hands-on experience in network configurations, SIEM tools, vulnerability assessment and penetration testing (VAPT) on networked systems, web applications and APIs. I specialize in identifying and mitigating security threats, and I'm driven to deliver robust security solutions that protect digital assets.
 
 
 ## Core Skills 🌟 
@@ -21,6 +21,8 @@ Operating Systems: Linux, Windows, macOS
 
 
 ## 📜 Certifications
+
+APIsec Certified Practitioner, APISEC University.
 
 Certified Ethical Hacking , Neocloud Technologies.
 

@@ -12,7 +12,7 @@ I specialize in identifying and mitigating security threats, and I'm driven to d
 
 
 ## Core Skills 🌟 
-Cybersecurity: Web application VAPT, Network and System VAPT, metasploitable2 exploitation, Vulnerability Management, Advanced system exploitation, IT Networking, Reconnaaissance, Firewalls, Error handling and Reporting
+Cybersecurity: Web application VAPT, Network and System VAPT, metasploitable2 exploitation, Vulnerability Management, Advanced system exploitation, Phishing Email Analysis, IT Networking, Reconnaaissance, Firewalls, Error handling and Reporting
 
 Tools: OWASP ZAP, OpenVAS, NESSUS, KALI LINUX tools, SPLUNK, BURPSUITE, HASH CALC, WIRESHARK, NMAP, GITHUB.
 
